@@ -1,6 +1,7 @@
 # Jack-Compiler-Programming-Language-Final-Project
 
-# when compiling the files
+# when compiling the files type in terminal
+
 py Jack.py <sourcecode.txt>
 
 you can add more errors in the jack_wrong.txt
